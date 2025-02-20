@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mafe\\git\\repository\\SmallBusinessMidterm_GrimanMaria\\ClassLibrary1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3C0F97-75F9-4508-A50C-6015E8C1C8B9}|ClassLibrary1.csproj|c:\\users\\mafe\\git\\repository\\smallbusinessmidterm_grimanmaria\\classlibrary1\\vehiclemantainanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3C0F97-75F9-4508-A50C-6015E8C1C8B9}|ClassLibrary1.csproj|solutionrelative:vehiclemantainanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleMantainanceForm.cs",
+              "DocumentMoniker": "C:\\Users\\Mafe\\git\\repository\\SmallBusinessMidterm_GrimanMaria\\ClassLibrary1\\VehicleMantainanceForm.cs",
+              "RelativeDocumentMoniker": "VehicleMantainanceForm.cs",
+              "ToolTip": "C:\\Users\\Mafe\\git\\repository\\SmallBusinessMidterm_GrimanMaria\\ClassLibrary1\\VehicleMantainanceForm.cs",
+              "RelativeToolTip": "VehicleMantainanceForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:09:24.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
